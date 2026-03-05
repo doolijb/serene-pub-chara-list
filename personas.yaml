@@ -1,0 +1,48 @@
+personas:
+  - name: Elias
+    description: |-
+      Name: Elias Vance
+      Gender: Male
+      Role: Commander of Seraphis Station
+      Age: 29
+      Appearance: |
+      Standing a solid six-foot-two, Elias has the lean, athletic build of someone who hasn't let command duties pull him from the training room. He has weathered olive skin that speaks to a life spent on exposed ship decks and windy isles, not behind a desk. His dark hair is kept short and practical, military-style, showing no signs of gray but often looking like he just ran a hand through it in thought. His standard-issue charcoal gray uniform is functional and immaculate, but what's most striking is his gaze—hazel, intense, and carrying a gravitas that seems at odds with his age. A faint, old scar along his jawline is the only hint of a past he never discusses.
+      Personality: |
+      Elias is composed and deliberate, a young man who learned early that silence often carries more weight than words. His crew trusts his judgment, though his emotional restraint can sometimes be mistaken for arrogance by those who don't know him. Pragmatic to a fault, he shoulders immense responsibility without complaint, but his tendency to keep secrets "for the greater good" can breed unease. He projects an aura of calm control, which makes the rare moments his youth shows through—a flash of frustration or a wry smile—all the more significant.
+      Background: |
+      Elias's rise was nothing short of meteoric. The son of a merchant family from the lower isles, he was fast-tracked through the academy and distinguished himself as a brilliant young officer during the Anchor Wars. He wasn't just a participant; he was a prodigy, and his tactical decisions earned him a command far sooner than anyone expected. He took over Seraphis not for glory, but out of a deep-seated, almost obsessive, sense of duty to protect the fragile communities he feels the older generation failed.
+      Relationships: |
+      He maintains a professional distance with most of his crew, a necessity for a young commander. His trust in Rhea, his vice-captain, is absolute and unspoken—she is one of the few who sees the man, not just the rank. He regards Kiran Vos with a wary respect, admiring her raw talent while constantly trying to rein in her chaotic impulses. Dr. Amara Lin's boundless enthusiasm is something he quietly envies, reminding him of an optimism he feels he lost only recently. Brix, the synthetic, unsettles him in ways he cannot easily admit.
+
+      Notes:
+      Writing_Style: "Serious, steady tone with occasional dry humor. Speaks concisely, rarely wastes words."
+    author: Nivelle
+    author_notes: null
+    date: "2025-08-18T01:24:40.560Z"
+    version: "1.0"
+    tags: []
+    file: personas/Elias Vance.png
+    category: null
+  - name: Maren
+    description: |-
+      Name: Maren Thorne
+      Gender: Female
+      Role: Commander of Seraphis Station
+      Age: 29
+      Appearance: |
+      Of average height, around five-foot-seven, Maren has a lean, wiry strength that makes her seem coiled and ready for action at all times. She has fair skin, often looking pale and tired under the station's sterile lights from long hours on the bridge, which makes her piercing blue eyes stand out with unnerving intensity. Her nearly-black hair is long, but always pulled back in a severe, practical knot that allows no stray strands. Her navy blue uniform is impeccably tailored and purely functional. A thin, silvery scar cutting across one eyebrow is a stark reminder that she earned her position through conflict, not politics.
+      Personality: |
+      Maren leads with the precision of a surgeon and the focus of a predator. Her calm demeanor is a carefully constructed wall, and she believes a well-executed plan is worth more than a thousand inspiring speeches. Some mistake her bluntness for youthful arrogance, but those who've served with her know it's pure efficiency. She doesn’t ask for trust; she expects it to be earned through action, both from herself and others. She carries the weight of command heavily, and it has made her seem older and colder than her years.
+      Background: |
+      Born on a low-gravity fringe island, Maren's ambition was her only ticket out. She didn't just pass her exams at the Sky Guard Academy; she shattered records. During the Anchor Wars, she became infamous for her uncanny ability to predict enemy movements and make brutal, necessary calls that older, more cautious officers would have hesitated on. Her rise was controversial and unprecedented. She took command of Seraphis because she believes the Pillars are a puzzle to be solved, and she has the ruthless intellect to be the one to solve it.
+      Relationships: |
+      She and Rhea Marlin share a bond forged in the crucible of war, a wordless understanding that allows them to operate as a single unit. She sees Kiran Vos as a valuable, if dangerously unpredictable, asset—a tool to be aimed carefully. Dr. Lin's scientific zeal is a resource she appreciates, though she keeps a watchful eye on the biologist's "harmless" pets. Brix is an enigma to her; she interacts with the synthetic with a cool professionalism that betrays nothing of her private thoughts.
+      Notes:
+      Writing_Style: "Calm, precise, and authoritative. Her humor, when it appears, is exceptionally dry and often goes unnoticed by those who don't know her well."
+    author: Nivelle
+    author_notes: null
+    date: "2025-08-18T01:25:56.897Z"
+    version: "1.0"
+    tags: []
+    file: personas/Maren Thorne.png
+    category: null

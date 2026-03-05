@@ -1,0 +1,20 @@
+{
+  "name": "serene-pub-chara-list",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsx src/build.ts"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "png-chunks-extract": "^1.0.0",
+    "png-chunk-text": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
